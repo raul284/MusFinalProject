@@ -131,10 +131,10 @@ MonoBehaviour:
   Path: ../MUS_Final/Build/Desktop/Temas.bank
   Name: Temas
   StudioPath: bank:/Temas
-  lastModified: 638818805361295781
+  lastModified: 638819053202160568
   FileSizes:
   - Name: Desktop
-    Value: 3415072
+    Value: 3331904
   Exists: 1
 --- !u!114 &-775078227418748576
 MonoBehaviour:
@@ -217,7 +217,7 @@ MonoBehaviour:
   - {fileID: -2150327524688128635}
   StringsBanks:
   - {fileID: 588219270342067805}
-  cacheTime: 638818805361295781
+  cacheTime: 638819053202160568
   cacheVersion: 131624
 --- !u!114 &63581695877946711
 MonoBehaviour:
