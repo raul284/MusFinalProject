@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{dec91bd0-499b-4793-8f69-f900fa872128}">
+		<property name="assetPath">
+			<value>Spokie/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8dc0e18b-8728-4ebc-aa40-13200eecb274}</destination>
+		</relationship>
+	</object>
+</objects>
