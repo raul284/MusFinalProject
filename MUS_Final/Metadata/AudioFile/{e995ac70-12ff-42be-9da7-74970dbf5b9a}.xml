@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{ef44b68d-4b20-4f13-9ef8-78c25ddcb57f}">
+	<object class="AudioFile" id="{e995ac70-12ff-42be-9da7-74970dbf5b9a}">
 		<property name="assetPath">
-			<value>Desert/Desert-3.mp3</value>
+			<value>Snow/CancionInvierno.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
 		</property>
 		<property name="channelCount">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<property name="length">
-			<value>0.28734693877551021</value>
+			<value>99.500408163265305</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{8dc0e18b-8728-4ebc-aa40-13200eecb274}</destination>
